@@ -1,0 +1,17 @@
+{
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "Name": "Auto Insert and Pick Artisan Things",
+  "Author": "lucas8x",
+  "Version": "1.0.0",
+  "Description": "Auto insert ingredients when near an artisan equipment.",
+  "UniqueID": "lucas8x.AutoInsertAndPickArtisanThings",
+  "EntryDll": "AutoInsertAndPickArtisanThings.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ]
+}

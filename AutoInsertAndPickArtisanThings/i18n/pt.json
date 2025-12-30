@@ -1,0 +1,18 @@
+{
+  "mod.name": "Inserção Automática de Ingredientes de Artesão",
+
+  "config.auto-insert": "Inserir ingredients automaticamente",
+  "config.auto-insert.desc": "Coloca automaticamente os ingredientes na máquina.",
+
+  "config.auto-pick": "Pegar produtos automaticamente",
+  "config.auto-pick.desc": "Pega automaticamente os itens prontos da máquina.",
+
+  "config.detection-range": "Alcance de detecção",
+  "config.detection-range.desc": "Distância entre o jogador e a máquina para executar as ações.",
+
+  "config.keybind-insert": "Atalho para Inserir ingredientes",
+  "config.keybind-insert.desc": "Atalho para inserir ingredientes na máquina. Lembre-se de desativar a inserção automática.",
+
+  "config.keybind-pick": "Atalho para Pegar itens",
+  "config.keybind-pick.desc": "Atalho para pegar itens prontos da máquina. Lembre-se de desativar a coleta automática."
+}

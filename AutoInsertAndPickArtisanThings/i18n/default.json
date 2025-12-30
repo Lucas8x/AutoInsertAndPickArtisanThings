@@ -1,0 +1,18 @@
+{
+	"mod.name": "Auto Insert Artisan ingredients",
+
+	"config.auto-insert": "Auto insert ingredients",
+	"config.auto-insert.desc": "Automatically put ingredients into the machine.",
+
+	"config.auto-pick": "Auto pick",
+	"config.auto-pick.desc": "Automatically pick up ready items from the machine.",
+
+	"config.detection-range": "Detection range",
+	"config.detection-range.desc": "Distance between player and machine to take effect.",
+
+	"config.keybind-insert": "Execute insertions keybind",
+	"config.keybind-insert.desc": "Remember to disable auto insert.",
+
+	"config.keybind-pick": "Pickup goods keybind",
+	"config.keybind-pick.desc": "Keybind to pick up ready items from the machine. Remember to disable auto pickup."
+}
