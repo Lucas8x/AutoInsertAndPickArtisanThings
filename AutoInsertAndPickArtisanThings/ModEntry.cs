@@ -108,7 +108,16 @@ namespace AutoInsertAndPickArtisanThings
         {
             Item selectedItem = Game1.player.CurrentItem;
 
-            if (selectedItem == null || !(Game1.player.CurrentItem is StardewValley.Object obj) ) return false;
+            if (selectedItem == null || !(Game1.player.CurrentItem is StardewValley.Object obj)) return false;
+
+            // cask wines
+            if (
+                selectedItem.HasContextTag("wine_item") || // variants
+                selectedItem.HasContextTag("item_wine") // default wine
+            )
+            {
+                return true;
+            }
 
             bool valid = IsValidArtisanInput(
                 selectedItem.ParentSheetIndex,

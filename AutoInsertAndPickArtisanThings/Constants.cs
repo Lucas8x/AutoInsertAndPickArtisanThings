@@ -34,7 +34,7 @@ public static class ModContants
                 346, // Beer
                 459, // Mead
                 424, // Cheese
-                436 // Goat Milk
+                426  // Goat Cheese
             }
         },
         {
@@ -56,7 +56,7 @@ public static class ModContants
                 262, // Wheat
                 423, // Rice
                 433, // Coffee Bean
-                614,  // Tea Leaves
+                614, // Tea Leaves
                 340, // Honey
                 304, // Hops
             }
@@ -74,11 +74,11 @@ public static class ModContants
             {
                 176, 180, // Egg
                 174, 182, // Large Egg
-                289, // Ostrich Egg
-                928, // Golden Egg
-                442, // Duck Egg
-                305, // Void Egg
-                107,  // Dinosaur Egg
+                289,      // Ostrich Egg
+                928,      // Golden Egg
+                442,      // Duck Egg
+                305,      // Void Egg
+                107,      // Dinosaur Egg
             }
         },
         {
@@ -88,7 +88,7 @@ public static class ModContants
                 430, // Truffle
                 270, // Corn
                 431, // Sunflower Seeds
-                421 // Sunflower
+                421  // Sunflower
             }
         },
         {
